@@ -1,0 +1,23 @@
+.form-title {
+  background-color: #3498db;
+  color: #fff;
+  padding: 15px;
+}
+
+.form-content {
+  border: 1px solid #3498db;
+  padding: 0;
+}
+
+.form-content form {
+  padding: 10px;
+}
+
+.w500 {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.centertxt {
+  text-align: center;
+}
